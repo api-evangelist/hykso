@@ -9,6 +9,17 @@ description: Hykso, Inc. is the company behind FightCamp, an at-home boxing and 
   Hykso/FightCamp is a direct-to-consumer connected-fitness brand and does not publish
   a public developer API.
 url: https://raw.githubusercontent.com/api-evangelist/hykso/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
